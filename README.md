@@ -1,8 +1,8 @@
 Software engineer | Gamer
 -------------------------
 
-🎮 Passionate gamer and coding enthusiast, I'm Flint, a college student on a mission to unravel the secrets of both virtual worlds and programming languages. 🚀 
-📚 Currently navigating the challenges of college life, I find equal joy in deciphering complex algorithms and navigating the intricacies of immersive game environments. 
+🎮 Passionate gamer and coding enthusiast, I'm Flint, a college student on a mission to unravel the secrets of both virtual worlds and programming languages. 🚀 <br><br>
+📚 Currently navigating the challenges of college life, I find equal joy in deciphering complex algorithms and navigating the intricacies of immersive game environments. <br><br> 
 🌐 Join me in the exciting fusion of coding and gaming. Let's connect, learn, and create something extraordinary together! 🌟
 
 * 🌍  I'm based in Europe
