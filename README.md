@@ -1,17 +1,9 @@
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=FlintMcgy.FlintMcgy&left_color=forestgreen&right_color=gray"  />
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
-
 <h1 align="center">Hi there!</h1>
+
+###
+
+<div align="center">
+</div>
 
 ###
 
