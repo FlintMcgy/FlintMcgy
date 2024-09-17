@@ -47,6 +47,6 @@
 
 ###
 
-<img src="https://github.com/FlintMcgy/FlintMcgy/raw/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/FlintMcgy/FlintMcgy/blob/output/github-contribution-grid-snake.gif)
 
 ###
