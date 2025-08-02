@@ -11,7 +11,7 @@
 
 ###
 
-<p align="center">Hi there! I’m Flint, a 19-year-old currently pursuing a Baccalaureate in Applied Computer Science in Germany. I’m passionate about gaming and experimenting with hardware, and I’m always looking to improve my skills and take on moderately challenging tasks.</p>
+<p align="center">Hi there! I’m Flint, a 20-year-old currently pursuing a Baccalaureate in Applied Computer Science in Germany. I’m passionate about gaming and experimenting with hardware, and I’m always looking to improve my skills and take on moderately challenging tasks.</p>
 
 ###
 
